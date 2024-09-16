@@ -8,7 +8,7 @@
 **About me:**
 - Student of Bauman Moscow State Technical University
 - Winner of a bunch student math olympiads
-- I'm currently learning 'Reinforcement learning'
+- I'm currently learning 'NLP'
 - I'm open for any suggestions <a href="https://t.me/ive_no_enemies" target="_blank"><img src="https://img.shields.io/badge/Contact-me-blue"/></a>
 
 **Languages and Tools:**
@@ -20,5 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolyayashin&" alt="kolyayashin" /></p>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KolyaYashin&theme=default) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KolyaYashin&theme=default)
  
